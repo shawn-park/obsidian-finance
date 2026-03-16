@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "폭락 뒤 상승의 비밀"
             }
+          },
+          {
+            "id": "4da97d2d25e1965d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c49e89118a891684",
+  "active": "4da97d2d25e1965d",
   "lastOpenFiles": [
     "_Stock/참고자료/폭락",
     "_Stock/참고자료/폭락/폭락 뒤 상승의 비밀.md",
