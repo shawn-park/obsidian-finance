@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e55fb9978c5cf13c",
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4da97d2d25e1965d",
+  "active": "c49e89118a891684",
   "lastOpenFiles": [
     "_Stock/참고자료/폭락",
     "_Stock/참고자료/폭락/폭락 뒤 상승의 비밀.md",
